@@ -1,0 +1,15 @@
+{
+      "device_name": "Redmi Note 4",
+      "codename": "mido",
+      "assert": ["Redmi Note 4", "Redmi Note 4X", "mido"],
+      "datetime":1585318676,
+      "filename": "SuperiorOS-Phoenix-mido-OFFICIAL-20200327-1418.zip",
+      "id": "8f369ffeeefd7163518a4182255a6f6f",
+      "romtype": "OFFICIAL",
+      "size":627223026,
+      "url": "https://downloads.sourceforge.net/project/superioros/mido/SuperiorOS-Phoenix-mido-OFFICIAL-20200327-1418.zip",
+      "version": "Phoenix",
+      "date": "2020/03/27",
+      "maintainer_name": "Smokey_18",
+      "xda_thread": ""
+ }
